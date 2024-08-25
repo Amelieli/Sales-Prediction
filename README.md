@@ -1,6 +1,6 @@
 # Walmart Sales Forecast
 
-# Sales forecasting offers significant benefits for businesses, particularly in retail like Walmart. Here are some key advantages:
+Sales forecasting offers significant benefits for businesses, particularly in retail like Walmart. Here are some key advantages:
 
 1. Inventory Management: Effective forecasting helps ensure that a business maintains optimal inventory levels. Overstocking leads to increased holding costs, while understocking can result in missed sales opportunities and unsatisfied customers.
 
